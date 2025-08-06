@@ -1,29 +1,38 @@
 <h1 align="center">Hi 👋, I'm Jatin Singla</h1>
-<h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, UI/UX Designing and Project Management.</h3>
+<h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, Data Analyst and Project Management.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
 # 💫 About Me:
-- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>- 💡 Passionate about building intuitive UIs & scalable frontends<br>- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>- 😄 Lifelong learner, always hungry to grow & explore<br>- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>- 🧠 Lifelong learner, always hungry to grow & explore.<br>- 💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
+- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>
+- 🔭 I’m currently working on **Portfolio Website**<br>
+- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>
+- 💡 Passionate about building intuitive UIs & scalable frontends<br>
+- 🌱 I’m currently learning **React.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and Data Analyst tools**<br>
+- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>
+- 😄 Lifelong learner, always hungry to grow & explore<br>
+- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>
+- 🧠 Lifelong learner, always hungry to grow & explore.<br>
+- 💬 Ask me about **🌏 Web Development, 🧑‍💻 Data Analyst ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
 
 <hr>
 
 <h2>🌐 Connect with Me:</h2>
-<a href="https://discord.com/channels/@me/1268569313938509845" target="_blank">
+<!-- <a href="https://discord.com/channels/@me/1268569313938509845" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" 
        alt="Discord" 
        style="border-radius: 20px; height: 32px;" />
-</a>
+</a> -->
 <a href="https://instagram.com/jagritisachdeva" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" 
        alt="Instagram" 
        style="border-radius: 8px; height: 32px;" />
 </a>
-<a href="https://www.linkedin.com/in/jagriti-sachdeva/" target="_blank">
+<a href="https://www.linkedin.com/in/jatin-singla15/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" 
        alt="LinkedIn" 
        style="border-radius: 8px; height: 32px;" />
 </a>
-<a href="mailto:jags.jagriti12@gmail.com" target="_blank">
+<a href="mailto:jatin.singla8607@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" 
        alt="Email" 
        style="border-radius: 8px; height: 32px;" />
@@ -128,16 +137,16 @@
 </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jagriti-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jagriti-12&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Jatinsingla4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jatinsingla4&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinsingla4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jagriti-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Jatinsingla4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jagriti-12&icon=7&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jatinsingla4&icon=7&color=6)](https://visitcount.itsvg.in)
 
